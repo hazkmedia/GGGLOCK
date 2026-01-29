@@ -7,7 +7,7 @@ export default function handler(req, res) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Careers at Louis Vuitton</title>
+<title>Calendly - Aquent Talent</title>
 
 <style>
   html, body {
